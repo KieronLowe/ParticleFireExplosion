@@ -1,0 +1,5 @@
+﻿  Particles.cpp
+c:\users\kieron\desktop\sdlapplication\sdlapplication\particles.cpp(1): warning C4603: '_USE_MATH_DEFINES': macro is not defined or definition is different after precompiled header use
+  c:\users\kieron\desktop\sdlapplication\sdlapplication\particles.cpp(1): note: Add macro to precompiled header instead of defining here
+  c:\users\kieron\desktop\sdlapplication\sdlapplication\particles.cpp(5): note: use of precompiled header
+  SDLApplication.vcxproj -> C:\Users\Kieron\Desktop\SDLApplication\Debug\SDLApplication.exe
